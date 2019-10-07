@@ -29,8 +29,9 @@ Items
 Total
  111
 call with "T"(print only the total)
+```
 
-
+```
 Input an integer to add to the total or "Q" to quit
 Enter an integer or "Q": 5
 Enter an integer or "Q": 7
