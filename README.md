@@ -6,10 +6,9 @@ The adding_report() function has 2 type of report:
 "Q" or "q" used as the argument to adding_report() results in printing of all of the input integers and the total
 "Quit" or "quit" used as the argument results in printing only the total
 
-```
 Sample input and output:
 call adding_report() with "Q" or "q"  as argument (print all the integers entered and the total)
-
+```
 Input an integer to add to the total or "Q" to quit
 Enter an integer or "Q": 3
 Enter an integer or "Q": 6
@@ -30,8 +29,8 @@ Items
 Total
  111
 call with "T"(print only the total)
-```
-```
+
+
 Input an integer to add to the total or "Q" to quit
 Enter an integer or "Q": 5
 Enter an integer or "Q": 7
