@@ -30,7 +30,7 @@ Total
  111
 call with "T"(print only the total)
 ```
-
+call adding_report() with "Quit" or "quit" as argument (print all the integers entered and the total)
 ```
 Input an integer to add to the total or "Q" to quit
 Enter an integer or "Q": 5
